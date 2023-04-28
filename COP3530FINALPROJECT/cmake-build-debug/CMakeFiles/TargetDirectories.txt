@@ -1,0 +1,3 @@
+C:/Users/ksmar/CLionProjects/COP3530FINALPROJECT/cmake-build-debug/CMakeFiles/COP3530FINALPROJECT.dir
+C:/Users/ksmar/CLionProjects/COP3530FINALPROJECT/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ksmar/CLionProjects/COP3530FINALPROJECT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
