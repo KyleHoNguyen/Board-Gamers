@@ -1,5 +1,9 @@
 # Board-Gamers
 COP3530 Final Project
+The COP3530FINALPROJECT folder shows our initial boardGame file, sorting file, and our main that holds our command line GUI. 
+The GuiAttempt folder shows the Dear ImGui library which holds our executable. 
+(To find executable FINALPROJECT\example_win32_directx11\Release\example_win32_directx11.exe) 
+(To find main FINALPROJECT\example_win32_directx11\main.cpp)
 This is our progress/attempt on creating a GUI using tthe Dear ImGui library.
 As you can see there are three columns. The first column consists of questions that are used to help delete/filter unwanted
 board games from our big dataset. It uses the int input text widget for the number of players and combo button widgets for the rest
